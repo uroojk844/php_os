@@ -1,0 +1,9 @@
+.icon img{
+    height: 6vw;
+    width: 6vw
+}
+
+.col:hover{
+    opacity: 0.5;
+}
+
